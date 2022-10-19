@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Golden Nails & Lashes",
+        "slug"      : "golden-nails-lashes", 
+        "phone"     : "303 278-0394", 
+        "email"     : "nalytran1128@gmail.com",
+        "address"   : "710 Golden Ridge Rd Ste #108 Golden, Colorado 80401",
+        "time_1"    : "Mon - Fri: 09:30 AM - 07:00 PM",
+        "time_2"    : "Sat : 09:00 AM - 07:00 PM",
+        "time_3"    : "Sun: 11:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/profile.php?id=100082484122786",
+        "instagram" :   "https://www.instagram.com/goldennailslashes.co/",
+        "google"    :   "https://goo.gl/maps/A63t2FWQW6mh58bQ7", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDY3NDF8Z29sZGVuNzEwfENPXzA3OTIwfGEyZmQxYTc3OGM1Njk0OWRkNTkzOTI1NzAwMWUwMDAx",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12273.923537177145!2d-105.2078439!3d39.7288476!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb07ddea17a18d75f!2sGOLDEN%20NAILS!5e0!3m2!1svi!2s!4v1666083361035!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#FC8998",
+        "primary_light"         :   "#ff83a5",
+        "primary_hover"         :   "#f5ff00",
+        "secondary"             :   "#F2ACBF",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FC8998",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "assets/images",
+    "domain":       "https://pthaithach.github.io/168GOLDEN_NAILS_LASHES/"
+}
